@@ -6,13 +6,13 @@ Premium peanut butter brand website built with React, TypeScript, Vite, and Tail
 
 After GitHub Pages is enabled, the site will be available at:
 
-**https://saisathwikreddyn.github.io/udayPeanutbutter/**
+**https://saisathwik07.github.io/udayPeanutButter/**
 
 ## Run locally
 
 ```bash
-git clone https://github.com/SaiSathwikReddyN/udayPeanutbutter.git
-cd udayPeanutbutter
+git clone https://github.com/saisathwik07/udayPeanutButter.git
+cd udayPeanutButter
 npm install
 npm run dev
 ```
